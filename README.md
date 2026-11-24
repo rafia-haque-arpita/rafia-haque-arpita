@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rafia Haque Arpita</h1>
+<h3 align="center">Software Developer | Competitive Programmer | CS Student from Bangladesh 🇧🇩</h3>
 
-<!--
-**rafia-haque-arpita/rafia-haque-arpita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rafia-haque-arpita&label=Profile%20views&color=0e75b6&style=flat" alt="rafia-haque-arpita" />
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/rafia-haque-arpita">
+    <img src="https://img.shields.io/github/followers/rafia-haque-arpita?label=Follow%20%40rafia-haque-arpita&style=social" alt="Follow @rafia-haque-arpita" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Girl Coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/woman-coding.gif">
+
+- 🌐 Check out my portfolio: [rafia-arpita-portfolio](https://github.com/rafia-haque-arpita/rafia-arpita-portfolio)
+- 📫 How to reach me: **rafiaarpita16@gmail.com**
